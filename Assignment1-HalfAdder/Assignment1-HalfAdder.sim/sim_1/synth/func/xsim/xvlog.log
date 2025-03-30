@@ -1,0 +1,3 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Admin/Vivado_Udemy/Design Flow Part 1/Assignment1-HalfAdder/Assignment1-HalfAdder.sim/sim_1/synth/func/xsim/HA_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module HA
+INFO: [VRFC 10-311] analyzing module glbl

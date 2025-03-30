@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:{C:/Users/Admin/Vivado_Udemy/Design Flow Part 1/AND_implementation/AND_implementation.srcs/constrs_1/new/top.xdc} rfile:../../../AND_implementation.srcs/constrs_1/new/top.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:1 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN L15 [get_ports y]
+set_property src_info {type:XDC file:1 line:2 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN D19 [get_ports a]
+set_property src_info {type:XDC file:1 line:3 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN D20 [get_ports b]
