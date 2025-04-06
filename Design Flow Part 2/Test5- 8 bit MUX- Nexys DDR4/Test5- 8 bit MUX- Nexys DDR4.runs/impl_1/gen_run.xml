@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1743357124">
+  <File Type="OPT-HWDEF" Name="m81.hwdef"/>
+  <File Type="ROUTE-BUS-SKEW" Name="m81_bus_skew_routed.rpt"/>
+  <File Type="PA-DCP" Name="m81.dcp"/>
+  <File Type="ROUTE-PWR" Name="m81_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="m81.tcl"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="m81_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="m81_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="m81_power_summary_routed.pb"/>
+  <File Type="OPT-RQA-PB" Name="m81_rqa_opted.pb"/>
+  <File Type="REPORTS-TCL" Name="m81_reports.tcl"/>
+  <File Type="OPT-DCP" Name="m81_opt.dcp"/>
+  <File Type="OPT-DRC" Name="m81_drc_opted.rpt"/>
+  <File Type="OPT-TIMING" Name="m81_timing_summary_opted.rpt"/>
+  <File Type="PWROPT-DCP" Name="m81_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="m81_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="m81_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="m81_placed.dcp"/>
+  <File Type="PLACE-IO" Name="m81_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="m81_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="m81_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="m81_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="m81_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="m81_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="m81_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BIN" Name="m81.bin"/>
+  <File Type="PLACE-TIMING" Name="m81_timing_summary_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="m81_power_routed.rpx"/>
+  <File Type="PLACE-RQA-PB" Name="m81_rqa_placed.pb"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="m81_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-MSK" Name="m81.msk"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="m81_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="m81_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="m81_drc_physopted.rpt"/>
+  <File Type="BITSTR-RBT" Name="m81.rbt"/>
+  <File Type="PHYSOPT-TIMING" Name="m81_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="m81_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="m81_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="m81_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="m81_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="m81_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="m81_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="m81_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="m81_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="m81_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-RQS-PB" Name="m81_rqs_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="m81_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="m81_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="m81_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="m81_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="m81_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="m81_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="m81_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="m81_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="m81_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="m81_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="m81_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="m81_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="m81_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="m81_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="m81_bus_skew_postroute_physopted.rpt"/>
+  <File Type="BG-BIT" Name="m81.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="m81_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="m81_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="m81.nky"/>
+  <File Type="BITSTR-BMM" Name="m81_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="m81.mmi"/>
+  <File Type="PDI-FILE" Name="m81.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="m81_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="m81_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="m81.rcfi"/>
+  <File Type="CFI_FILE" Name="m81.cfi"/>
+  <File Type="RNPI_FILE" Name="m81.rnpi"/>
+  <File Type="NPI_FILE" Name="m81.npi"/>
+  <File Type="RBD_FILE" Name="m81.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="m81.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="m81.sysdef"/>
+  <File Type="BG-BGN" Name="m81.bgn"/>
+  <File Type="BG-DRC" Name="m81.drc"/>
+  <File Type="RDI-RDI" Name="m81.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="m81_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="m81_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/top.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="m81"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/top.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024">
+      <Desc>Default settings for Implementation.</Desc>
+    </StratHandle>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

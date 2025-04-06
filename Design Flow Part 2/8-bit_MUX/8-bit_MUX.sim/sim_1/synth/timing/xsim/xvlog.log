@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Admin/Vivado_Udemy/Design Flow Part 2/8-bit_MUX/8-bit_MUX.sim/sim_1/synth/timing/xsim/tb_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Admin/Vivado_Udemy/Design Flow Part 2/8-bit_MUX/8-bit_MUX.srcs/sim_1/new/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb
