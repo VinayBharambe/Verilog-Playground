@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+Answers of the solutions are 
+=========================================
+Value of add : 11 of Sub : -1 and of Mul : 30
+din1 : 101 and din2 : 110
+and : 100 or : 111 xor : 11 xnor : 1100
+din1 : 101 and din2 : 110
+sdin1 : 1 and sdin2 : 1100
+Concat : 01010110 and Rep : 011001100110

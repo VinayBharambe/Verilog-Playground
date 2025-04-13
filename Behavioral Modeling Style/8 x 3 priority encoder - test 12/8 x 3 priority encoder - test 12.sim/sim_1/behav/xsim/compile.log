@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Admin/Vivado_Udemy/Behavioral Modeling Style/8 x 3 priority encoder - test 12/8 x 3 priority encoder - test 12.srcs/sources_1/new/Encoder_8x3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Encoder_8x3
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Admin/Vivado_Udemy/Behavioral Modeling Style/8 x 3 priority encoder - test 12/8 x 3 priority encoder - test 12.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
